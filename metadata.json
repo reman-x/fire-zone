@@ -1,0 +1,9 @@
+{
+  "name": "Copy of FireZone Tournaments",
+  "description": "The ultimate Free Fire tournament platform. Join daily matches, track your stats, manage your wallet, and get AI-powered coaching tips.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
